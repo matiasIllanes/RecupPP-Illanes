@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656366376 source:d:\programacion 1 2022\recupp1 illanes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
